@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Knowledge Fetcher for Rogue Security Scanner
+Knowledge Fetcher for FU-SCA Security Scanner
 Fetches and parses security knowledge from expert sources before scanning
 """
 

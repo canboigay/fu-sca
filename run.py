@@ -12,7 +12,7 @@ def main():
     banner = """
     ╔══════════════════════════════════════════════════════════════════════╗
     ║                                                                      ║
-    ║                  Rogue - LLM Powered Security Scanner                ║
+║                  FU-SCA - AI-Powered Security Scanner                ║
     ║                                                                      ║
     ║           Automated Penetration Testing with LLM Intelligence        ║
     ║                                                                      ║

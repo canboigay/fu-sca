@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/logo.png" alt="Rogue Logo" width="270"/>
+<img src="logo/logo.png" alt="FU-SCA Logo" width="270"/>
 </p>
 
 # FU-SCA 🎯
@@ -217,7 +217,7 @@ If `OPENAI_API_KEY` is set instead, it falls back to:
 
 ## 🏗️ Architecture
 
-Rogue is built with a modular architecture consisting of several key components:
+FU-SCA is built with a modular architecture consisting of several key components:
 
 - **Agent**: Orchestrates the scanning process and manages other components
 - **Planner**: Generates intelligent testing strategies using LLMs

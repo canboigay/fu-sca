@@ -122,7 +122,7 @@ cython_debug/
 # VS Code
 .vscode/
 
-# Rogue-specific temporary files
+# FU-SCA-specific temporary files
 # Security scan results and outputs
 security_results*/
 optimized_test_results/
